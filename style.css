@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+   margin: 0;
+   height: 100vh;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+table{
+    
+    color: aliceblue;
+    width: 60%;
+    
+}
+
+th, td {
+    border: 1px solid #ccc;
+    padding: 10px ;
+    text-align: center;
+}
